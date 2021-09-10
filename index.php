@@ -1,6 +1,6 @@
 <?php
 
 echo "Bonjour Git";
-echo " Git c'est super !!!";
+echo " Git c'est super dev 2!!!";
 
 ?>
